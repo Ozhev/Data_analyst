@@ -42,10 +42,9 @@ https://docs.google.com/spreadsheets/d/1rWzY7m3g21rcJcSEJ2VYCLn_1RvNnlxE/edit?us
 
 Как решал: Изучил данные нескольких витрин, объединил данные нескольких витрин в CTE-запросах таким образом, чтобы увидеть динамику изменения балансов и оплат студентов. Проанализировал полученные данные.
 
-Ссылка на проект (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 https://metabase.sky.pro/question/78201
 https://docs.google.com/spreadsheets/d/1-f1hzo_sTS7fUZsogNQZeONwa4tgYp_T/edit?usp=share_link&ouid=100615170355785612541&rtpof=true&sd=true
 
 
-Email: ozhev@email.com
-LinkedIn: https://www.linkedin.com/in/username/
+Email: ozhev@bk.ru
+LinkedIn: https://www.linkedin.com/in/kirill-ozhev-080783252/

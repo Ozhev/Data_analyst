@@ -42,8 +42,7 @@ https://docs.google.com/spreadsheets/d/1rWzY7m3g21rcJcSEJ2VYCLn_1RvNnlxE/edit?us
 
 Как решал: Изучил данные нескольких витрин, объединил данные нескольких витрин в CTE-запросах таким образом, чтобы увидеть динамику изменения балансов и оплат студентов. Проанализировал полученные данные.
 
-https://metabase.sky.pro/question/78201
-https://docs.google.com/spreadsheets/d/1-f1hzo_sTS7fUZsogNQZeONwa4tgYp_T/edit?usp=share_link&ouid=100615170355785612541&rtpof=true&sd=true
+https://docs.google.com/document/d/1DsQfTuH8GV8Rw7cHpOSFHFQDKJ5J3UOMfcCM_aYUOZs/edit?usp=sharing
 
 
 Email: ozhev@bk.ru

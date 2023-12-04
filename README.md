@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1POH_mqTphsbf3IZOcckh7rAW1VhpblAs/edit?us
 
 Как решал: на основанийй данных рассчитал Retention для каждой когорты, из полученных данных рассчитал LT, LTR. Проанализировал данные.  
 
-https://docs.google.com/spreadsheets/d/1rWzY7m3g21rcJcSEJ2VYCLn_1RvNnlxE/edit?usp=share_link&ouid=100615170355785612541&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1rWzY7m3g21rcJcSEJ2VYCLn_1RvNnlxE/edit?usp=sharing&ouid=100615170355785612541&rtpof=true&sd=true
 
 Проект 3: Моделирование изменения балансов студентов с помощью SQL
 
@@ -42,7 +42,7 @@ https://docs.google.com/spreadsheets/d/1rWzY7m3g21rcJcSEJ2VYCLn_1RvNnlxE/edit?us
 
 Как решал: Изучил данные нескольких витрин, объединил данные нескольких витрин в CTE-запросах таким образом, чтобы увидеть динамику изменения балансов и оплат студентов. Проанализировал полученные данные.
 
-https://docs.google.com/document/d/1DsQfTuH8GV8Rw7cHpOSFHFQDKJ5J3UOMfcCM_aYUOZs/edit?usp=sharing
+https://docs.google.com/document/d/1dF_BLi3mBw5-MbCVij7l5igLW2d1h5WiTVyQQ76959o/edit?usp=sharing
 
 
 Email: ozhev@bk.ru

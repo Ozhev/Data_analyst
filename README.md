@@ -8,7 +8,7 @@
 
 Инструменты анализа данных: SQL, Excel, Google Sheets
 
-Языки программирования и библиотеки: Python
+Языки программирования и библиотеки: Python (numpy, pandas, matplotlib и т.д.)
 
 Системы управления базами данных: MySQL, PostgreSQL
 

@@ -48,5 +48,14 @@ https://docs.google.com/spreadsheets/d/1rWzY7m3g21rcJcSEJ2VYCLn_1RvNnlxE/edit?us
 https://docs.google.com/document/d/1dF_BLi3mBw5-MbCVij7l5igLW2d1h5WiTVyQQ76959o/edit?usp=sharing
 
 
+Проект 4: Анализ A/B-теста
+
+Что нужно было сделать: Провести анализ A/B-теста
+
+Как решил: Импортировал данные в окружение Jupyter Notebook, изучил данные и исключил нулловые значения. Далее объединил данные и автоматизировал статистические вычисления, применяя критерии Стьюдента и Манна Уитни. Провел расчет и сегментацию A/B-тестов.
+
+https://drive.google.com/file/d/191XGHzGy9koVOpza1j2jdZmFAKyn_hIG/view?usp=sharing
+
+
 Email: ozhev@bk.ru
 LinkedIn: https://www.linkedin.com/in/kirill-ozhev-080783252/
